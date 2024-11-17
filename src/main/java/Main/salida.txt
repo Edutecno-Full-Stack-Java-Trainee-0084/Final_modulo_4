@@ -1,0 +1,11 @@
+Alumno: 56789012-3 - Ana
+Alumno: 78901234-5 - Lucia
+Alumno: 13 - 333, Materia: MATEMATICAS, Promedio: 34.0, Materia: HISTORIA, Promedio: 0.0
+Alumno: 67890123-4 - Juan
+Alumno: 90123456-7 - Pedro
+Alumno: 01234567-8 - Maria
+Alumno: 45678901-2 - Carlos
+Alumno: 89012345-6 - Pablo
+Alumno: 12345678-9 - Milton
+Alumno: 23456789-0 - Pepe
+Alumno: 34567890-1 - Samantha
